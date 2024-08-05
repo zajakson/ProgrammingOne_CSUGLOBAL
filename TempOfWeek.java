@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TempOfWeek {
 
-//function WeeklyAvg //https://www.geeksforgeeks.org/java-program-to-compute-the-sum-of-numbers-in-a-list-using-recursion/
+//function WeeklyAvg
     public static int weeklyAvg(ArrayList<Integer> averageTempArrayList) {
         int total = 0;
         for (int i : averageTempArrayList) {

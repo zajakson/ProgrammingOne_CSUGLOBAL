@@ -1,0 +1,3 @@
+(ID#) Make  Model  Year  Color  [Mileage]
+(1) x  x  1  (x)  [1]
+(2) q  q  1  (q)  [1]
